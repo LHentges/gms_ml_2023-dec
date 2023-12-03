@@ -2,7 +2,7 @@
 Jupyter notebooks for machine learning session, GMS DPhil 2023, University of Oxford
 
 
-## Rough timetable for sessions on 2nd Dec and 5th Dec
+## Rough timetable for sessions on 4th and 5th Dec
 
 ### 4th December 2023
 
